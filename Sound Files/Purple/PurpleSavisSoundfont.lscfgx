@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LightSaberSolution SolutionSize="1680197" MasterVolume="100" EnableMasterVolumne="True">
+    <LightSaberSolution.Boot/>
+    <LightSaberSolution.PowerOn>
+        <SoundRecord RelativeFileName="Purple - Power On.wav" SoundVolume="65" IsSoundEnabled="True"/>
+    </LightSaberSolution.PowerOn>
+    <LightSaberSolution.PowerOff>
+        <SoundRecord RelativeFileName="Purple - Power Off.wav" SoundVolume="65" IsSoundEnabled="True"/>
+    </LightSaberSolution.PowerOff>
+    <LightSaberSolution.Idle>
+        <SoundRecord RelativeFileName="Purple - Hum.wav" SoundVolume="65" IsSoundEnabled="True"/>
+    </LightSaberSolution.Idle>
+    <LightSaberSolution.Motion>
+        <SoundRecord RelativeFileName="Purple - Swing 1.wav" SoundVolume="65" IsSoundEnabled="True"/>
+        <SoundRecord RelativeFileName="Purple - Swing 2.1.wav" SoundVolume="65" IsSoundEnabled="True"/>
+        <SoundRecord RelativeFileName="Purple - Swing 2.2.wav" SoundVolume="65" IsSoundEnabled="True"/>
+        <SoundRecord RelativeFileName="Purple - Swing 2.3.wav" SoundVolume="65" IsSoundEnabled="True"/>
+        <SoundRecord RelativeFileName="Purple - Swing 3.wav" SoundVolume="65" IsSoundEnabled="True"/>
+    </LightSaberSolution.Motion>
+    <LightSaberSolution.Impact>
+        <SoundRecord RelativeFileName="Purple - Clash 1.wav" SoundVolume="65" IsSoundEnabled="True"/>
+        <SoundRecord RelativeFileName="Purple - Clash 2.wav" SoundVolume="65" IsSoundEnabled="True"/>
+        <SoundRecord RelativeFileName="Purple - Clash 3.wav" SoundVolume="65" IsSoundEnabled="True"/>
+    </LightSaberSolution.Impact>
+    <LightSaberSolution.Lockup>
+        <SoundRecord RelativeFileName="../../Yoda/Basic Sounds YODA/lockup.wav" SoundVolume="65" IsSoundEnabled="True"/>
+    </LightSaberSolution.Lockup>
+    <LightSaberSolution.FontSettings>
+        <LightSaberFontSettings IsActiveBank="True" FontLabel="ObsidianFont"/>
+    </LightSaberSolution.FontSettings>
+</LightSaberSolution>
